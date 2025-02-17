@@ -1,0 +1,18 @@
+body{
+ 
+  background-image: url(https://images.unsplash.com/photo-1472289065668-ce650ac443d2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHJhbmRvbXxlbnwwfHwwfHx8MA%3D%3D);
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+}
+
+.content-titulo{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
